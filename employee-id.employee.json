@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6565e35dcfd45d389adfd14b"
+  },
+  "name": "jenny",
+  "email": "jenny@gmail.com",
+  "city": "pune",
+  "age": "24"
+},
+{
+  "_id": {
+    "$oid": "6565e3b7cfd45d389adfd14d"
+  },
+  "name": "elon",
+  "email": "elon@gmail.com",
+  "city": "texaxs",
+  "age": "42",
+  "company": "tesla"
+},
+{
+  "_id": {
+    "$oid": "6565e424cfd45d389adfd14f"
+  },
+  "name": "Stew",
+  "email": "Stew@gmail.com",
+  "city": "california",
+  "age": "56"
+},
+{
+  "_id": {
+    "$oid": "6565e44acfd45d389adfd151"
+  },
+  "name": "Bill",
+  "email": "Bill@gmail.com",
+  "city": "chennai",
+  "age": "45"
+},
+{
+  "_id": {
+    "$oid": "6565e47acfd45d389adfd153"
+  },
+  "name": "cathy",
+  "email": "cathytomwikch@gmail.com",
+  "city": "edenburg",
+  "age": "25"
+}]
